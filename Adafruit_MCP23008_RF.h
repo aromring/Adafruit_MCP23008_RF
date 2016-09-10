@@ -11,6 +11,8 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
+//  Copy this file into Arduino't libraries/Adafruit_MCP23008_RF folder
+
 #ifndef _Adafruit_MCP23008_RF_H
 #define _Adafruit_MCP23008_RF_H
 
