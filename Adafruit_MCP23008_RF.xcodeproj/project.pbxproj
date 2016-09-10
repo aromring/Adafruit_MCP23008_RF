@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		E1E145F91D49C8C800842D6B /* Adafruit_MCP23008_RF.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Adafruit_MCP23008_RF.cpp; sourceTree = "<group>"; };
+		E1E145FA1D49C8C800842D6B /* Adafruit_MCP23008_RF.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Adafruit_MCP23008_RF.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		E1E145F21D49C89B00842D6B = {
 			isa = PBXGroup;
 			children = (
+				E1E145F91D49C8C800842D6B /* Adafruit_MCP23008_RF.cpp */,
+				E1E145FA1D49C8C800842D6B /* Adafruit_MCP23008_RF.h */,
 			);
 			sourceTree = "<group>";
 		};
