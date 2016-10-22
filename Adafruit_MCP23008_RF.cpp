@@ -11,9 +11,10 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-//  Modified the original class name, Adafruit_MCP23008, to avoid conflicts with
-//  the Adafruit's LCD library
-//  Copy this file into Arduino't libraries/Adafruit_MCP23008_RF folder
+//  Modified the original class name, Adafruit_MCP23008,
+//  to avoid conflicts with the Adafruit's LCD library.
+//  Added allPinMode() function
+//  By Robert Fraczkiewicz, 7/17/2016
 
 #include "Adafruit_MCP23008_RF.h"
 
